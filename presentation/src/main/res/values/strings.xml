@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CovidStatistics</string>
+    <string name="all">All</string>
+    <string name="watched">Watched</string>
+    <string name="confirmed_cases">Confirmed cases:</string>
+    <string name="death_cases">Death cases:</string>
+    <string name="incident_rate">Incident rate:</string>
+    <string name="mortality_rate">Mortality rate:</string>
+    <string name="country_code">Country Code:</string>
+    <string name="add_btn_description">Add country to watchlist button</string>
+    <string name="delete_btn_description">Delete country from watchlist button</string>
+    <string name="sorting_button">Sorting Button</string>
+    <string name="longitude">x:</string>
+    <string name="latitude">y:</string>
+    <string name="map_navigation_button">Map navigation button</string>
+</resources>
